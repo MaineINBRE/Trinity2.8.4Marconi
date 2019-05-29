@@ -50,7 +50,7 @@ Stats based on ALL transcript contigs:
 <p><a id="YeastEx90N50"></a>Next the graph depicting the Ex90N50 statistic suggesting that deep enough sequencing was achieved to construct the assembly</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/spEx90N50.25.jpg" alt="Ex90N50"> 
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/spEx90N50.25.jpg" alt="Ex90N50"> 
 </p>
 
 <a href="#top">Back to Top</a> <a href="#contents">Table of Contents</a>
@@ -135,7 +135,7 @@ plat reads
 <p>Violin plot suggesting that library construction was performed in a strand specific fashion</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/spviolinplot.25.jpg" alt="violinplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/spviolinplot.25.jpg" alt="violinplot">
 </p>
 
 <a href="#top">Back to Top</a> <a href="#contents">Table of Contents</a>
@@ -147,8 +147,8 @@ plat reads
 <h4 align="center">ds versus hs</h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/dsVShsMA50.jpg" alt="MAplot">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/dsVShsVolcano50.jpg" alt="Volcanoplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/dsVShsMA50.jpg" alt="MAplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/dsVShsVolcano50.jpg" alt="Volcanoplot">
 </p>
 
 <p>Blast functional annotations were obtained for 86 of the 94 differentially expressed isoforms in this group</p>
@@ -156,8 +156,8 @@ plat reads
 <h4 align="center">ds versus log</h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/dsVSlogMA50.jpg" alt="MAplot">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/dsVSlogVolcano50.jpg" alt="Volcanoplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/dsVSlogMA50.jpg" alt="MAplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/dsVSlogVolcano50.jpg" alt="Volcanoplot">
 </p>
 
 <p>Blast functional annotations were obtained for 99 of the top 100 differentially expressed isoforms in this group</p>
@@ -165,8 +165,8 @@ plat reads
 <h4 align="center">ds versus plat</h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/dsVSplatMA50.jpg" alt="MAplot">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/dsVSplatVolcano50.jpg" alt="Volcanoplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/dsVSplatMA50.jpg" alt="MAplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/dsVSplatVolcano50.jpg" alt="Volcanoplot">
 </p>
 
 <p>Blast functional annotations were obtained for 68 of the 77 differentially expressed isoforms in this group</p>
@@ -174,8 +174,8 @@ plat reads
 <h4 align="center">hs versus log</h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/hsVSlogMA50.jpg" alt="MAplot">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/hsVSlogVolcano50.jpg" alt="Volcanoplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/hsVSlogMA50.jpg" alt="MAplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/hsVSlogVolcano50.jpg" alt="Volcanoplot">
 </p>
 
 <p>Blast functional annotations were obtained for 94 of the top 100 differentially expressed isoforms in this group</p>
@@ -183,8 +183,8 @@ plat reads
 <h4 align="center">hs versus plat</h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/hsVSplatMA50.jpg" alt="MAplot">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/hsVSplatVolcano50.jpg" alt="Volcanoplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/hsVSplatMA50.jpg" alt="MAplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/hsVSplatVolcano50.jpg" alt="Volcanoplot">
 </p>
 
 <p>Blast functional annotations were obtained for 98 of the top 100 differentially expressed isoforms in this group</p>
@@ -192,8 +192,8 @@ plat reads
 <h4 align="center">log versus plat</h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/logVSplatMA50.jpg" alt="MAplot">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/logVSplatVolcano50.jpg" alt="Volcanoplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/logVSplatMA50.jpg" alt="MAplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/logVSplatVolcano50.jpg" alt="Volcanoplot">
 </p>
 
 <p>Blast functional annotations were obtained for 97 of the top 100 differentially expressed isoforms in this group</p>
@@ -203,7 +203,7 @@ plat reads
 <p>Below is the heatmap to help visualize isoform clusters of interest.</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/spHeatmap50.jpg" alt="Heatmap">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/spHeatmap50.jpg" alt="Heatmap">
 </p>
 
 <a href="#top">Back to Top</a> <a href="#contents">Table of Contents</a>
@@ -262,7 +262,7 @@ Stats based on ALL transcript contigs:
 <p><a id="LobsterEx90N50"></a>Next a graph of the Ex90N50 statistic which suggests adequate sequencing depth for the assembly</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/lobsterEx90N50.jpg" alt="Ex90N50">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/lobsterEx90N50.jpg" alt="Ex90N50">
 </p>
 
 <a href="#lobster">beginning of lobster analysis</a> <a href="#top">Back to Top</a> <a href="#contents">Table of Contents</a>
@@ -493,38 +493,38 @@ CG4
 <h4 align="center">PMN Replicate Comparisons</h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/PMNbin75.jpg" alt="counts">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/PMNheat75.jpg" alt="heatmap">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/PMNbin75.jpg" alt="counts">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/PMNheat75.jpg" alt="heatmap">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/PMNscat75.jpg" alt="scatterplot">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/PMNMA75.jpg" alt="MAplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/PMNscat75.jpg" alt="scatterplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/PMNMA75.jpg" alt="MAplot">
 </p>
 
 <h4 align="center">MN Replicate Comparisons</h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/MNbin75.jpg" alt="counts">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/MNheat75.jpg" alt="heatmap">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/MNbin75.jpg" alt="counts">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/MNheat75.jpg" alt="heatmap">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/MNscat75.jpg" alt="scatterplot">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/MNMA75.jpg" alt="MAplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/MNscat75.jpg" alt="scatterplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/MNMA75.jpg" alt="MAplot">
 </p>
 
 
 <h4 align="center">CG Replicate Comparisons</h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/CGbin75.jpg" alt="counts">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/CGheat75.jpg" alt="heatmap">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/CGbin75.jpg" alt="counts">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/CGheat75.jpg" alt="heatmap">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/CGscat75.jpg" alt="scatterplot">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/CGMA75.jpg" alt="MAplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/CGscat75.jpg" alt="scatterplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/CGMA75.jpg" alt="MAplot">
 </p>
 
 <a href="#lobster">beginning of lobster analysis</a> <a href="#top">Back to Top</a> <a href="#contents">Table of Contents</a>
@@ -532,7 +532,7 @@ CG4
 <h4 align="center"><a id="LobsterPC"></a>Priniciple Component Analysis</h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/lobsterpc50.jpg" alt="PC">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/lobsterpc50.jpg" alt="PC">
 </p>
 
 <a href="#lobster">beginning of lobster analysis</a> <a href="#top">Back to Top</a> <a href="#contents">Table of Contents</a>
@@ -542,8 +542,8 @@ CG4
 <h4 align="center">MA and Volcano Plots</h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/lobMA50.jpg" alt="MAplot">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/lobVol50.jpg" alt="Volcanoplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/lobMA50.jpg" alt="MAplot">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/lobVol50.jpg" alt="Volcanoplot">
 </p>
 
 <p>In comparing the PMN and MN regions of the CG blast functional annotations were obtained for 472 of the 1018 differentially expressed isoforms using the uniprot, trembl and NR databases.  Of the top 100 differentially expressed isoforms 77 were functionally annotated.</p>  
@@ -551,13 +551,13 @@ CG4
 <h4 align="center">Heatmap</h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/lobHeat75.jpg" alt="Heatmap">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/lobHeat75.jpg" alt="Heatmap">
 </p>
 
 <h4 align="center">Heatmap of Top 100 Differentially Expressed Isoforms</h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathanbumpus/Trinity-2.8.4-Marconi/master/images/lobHeatTop75.jpg" alt="Heatmap">
+  <img src="https://raw.githubusercontent.com/MaineINBRE/Trinity2.8.4Marconi/master/images/lobHeatTop75.jpg" alt="Heatmap">
 </p>
 
 
