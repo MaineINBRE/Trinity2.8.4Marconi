@@ -387,7 +387,7 @@ module load Bowtie2/2.3.4.3
 bowtie2-build /home/nbumpus/lobster/trinity_out_dir3/Trinity.fasta \
 /home/nbumpus/lobster/assembly_quality/lobster_ref
 ```
-<p>Next align the reads to the assembly by modifying the following script for each individual set of reads.  We can run each of the scripts in parallel.  Here is an example using the PMN1 replicate.  This will generate the alignment statistics shown <a href="https://nathanbumpus.github.io/Trinity-2.8.4-Marconi/results.html#alignment" target="_blank">here.</a></p>
+<p>Next align the reads to the assembly by modifying the following script for each individual set of reads.  We can run each of the scripts in parallel.  Here is an example using the PMN1 replicate. </p>
 
 ```
 #!/bin/bash -l
